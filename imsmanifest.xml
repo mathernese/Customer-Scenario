@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5xvdebZ6ly7_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Customer Scenario</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Customer_Scenario_ORG">
+    <organization identifier="Customer_Scenario_ORG">
+      <title>Customer Scenario</title>
+      <item identifier="Customer_Scenario_SCO" isvisible="true" identifierref="__5xvdebZ6ly7_course_id_RES">
+        <title>Customer Scenario</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5xvdebZ6ly7_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5Ypi62wi3eA_80_P_0_730_1330_1280_DX1296_DY1296_CX882_CY849.jpg" />
+      <file href="mobile/6SZ5n5KInWg_80_P_0_0_1212_1365_DX1216_DY1216_CX754_CY849.jpg" />
+      <file href="mobile/6SZ5n5KInWg_X_80_P_828_0_1219_1365_DX1216_DY1216_CX758_CY849.jpg" />
+      <file href="mobile/5ZdMfJmna1J_80_P_0_0_497_683_DX1836_DY1836_CX497_CY684.png" />
+      <file href="mobile/5pWn5hcwiSe_80_P_0_0_717_954_DX1708_DY1708_CX627_CY834.png" />
+      <file href="mobile/5hilEYfKkOV_80_P_70_0_641_694_DX1836_DY1836_CX642_CY694.png" />
+      <file href="mobile/5vDhBRoZ7s2_80_P_0_0_735_954_DX1708_DY1708_CX644_CY835.png" />
+      <file href="mobile/5cgABZWuJez_80_P_0_0_617_668_DX1836_DY1836_CX618_CY668.png" />
+      <file href="mobile/5pWn5hcwiSe_80_P_0_0_706_954_DX1708_DY1708_CX618_CY835.png" />
+      <file href="mobile/6BrgVkWwaW9_80_P_15_0_607_676_DX1836_DY1836_CX607_CY676.png" />
+      <file href="mobile/6aUjnZYYWmi_80_P_-63_0_838_954_DX1708_DY1708_CX717_CY816.png" />
+      <file href="mobile/6QNsNjo9OLR_80_P_0_0_483_681_DX1836_DY1836_CX483_CY682.png" />
+      <file href="mobile/6GgFCmjXmWQ_80_P_0_0_778_954_DX1708_DY1708_CX681_CY835.png" />
+      <file href="mobile/5whx22Px61o_80_P_143_0_635_687_DX1836_DY1836_CX635_CY687.png" />
+      <file href="mobile/65fvjblLgSB_80_P_-71_0_862_954_DX1708_DY1708_CX724_CY801.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hGODDDPqGc.js" />
+      <file href="html5/data/js/6fDY6R38mEK.js" />
+      <file href="html5/data/js/6kIEFvJYT8Z.js" />
+      <file href="html5/data/js/6M45BO9KlZM.js" />
+      <file href="html5/data/js/6NuJ40aH3Lw.js" />
+      <file href="html5/data/js/6qXsLaogfzn.js" />
+      <file href="html5/data/js/6V3I0VEB8S7.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
